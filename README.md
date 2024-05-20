@@ -1,7 +1,7 @@
 QuanLyQuanCafe
 Dự án QuanLyQuanCafe giúp quản lý quán một cách hiệu quả.
 
-Thành viên nhóm:
+Thành viên nhóm 8:
 17110211 - Trần Hoàng Quân
 19110202 - Đỗ Thanh Hiếu
 21110855 - Đặng Minh Thiện
